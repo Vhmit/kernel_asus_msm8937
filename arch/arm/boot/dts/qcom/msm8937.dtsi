@@ -2075,7 +2075,7 @@
 
 			qcom,speed-bin = <0>;
 
-			qcom,initial-pwrlevel = <5>;
+			qcom,initial-pwrlevel = <6>;
 
 			/* Super TURBO++ */
 			qcom,gpu-pwrlevel@0 {
@@ -2165,7 +2165,7 @@
 
 			qcom,speed-bin = <0>;
 
-			qcom,initial-pwrlevel = <5>;
+			qcom,initial-pwrlevel = <6>;
 
 		
  			/* Super TURBO++ */
